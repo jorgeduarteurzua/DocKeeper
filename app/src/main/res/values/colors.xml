@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dockeeper_indigo">#3F51B5</color>
+    <color name="dockeeper_teal">#009688</color>
+    <color name="dockeeper_amber">#FFC107</color>
+    <color name="ic_launcher_background">#3F51B5</color>
+</resources>
